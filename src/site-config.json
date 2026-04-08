@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Tree Service By Northwest",
+    "phone": "+14256997581",
+    "category": "tree removal",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Seattle's Tree Removal Experts",
+      "heroSubline": "Safe, efficient tree services throughout the Puget Sound region. Protecting your property and our community.",
+      "aboutTitle": "Your Trusted Seattle Tree Removal Partner",
+      "aboutText": [
+        "Tree Service By Northwest started with a simple goal: to provide reliable and professional tree care to our neighbors in Seattle. We're not just a business; we're a team of experienced arborists who care deeply about the health and safety of our urban forest.",
+        "Our approach is rooted in expertise and respect. We assess each project meticulously, considering the tree's health, your property's layout, and the surrounding environment. We use proven techniques and modern equipment to ensure minimal impact and maximum safety.",
+        "We're proud to serve the Seattle community. We actively participate in local initiatives to promote responsible tree care and environmental stewardship. When you choose us, you're supporting a local business committed to the well-being of our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Safety First",
+          "description": "We prioritize safety in every project, protecting your property and our team."
+        },
+        {
+          "title": "Expert Arborists",
+          "description": "Our team has the knowledge and experience to handle any tree removal challenge."
+        },
+        {
+          "title": "Efficient Service",
+          "description": "We complete projects quickly and efficiently, minimizing disruption to your life."
+        },
+        {
+          "title": "Competitive Pricing",
+          "description": "We offer fair and transparent pricing with no hidden fees."
+        }
+      ],
+      "ctaHeadline": "Get a Free Tree Removal Estimate",
+      "ctaSubline": "Protect your property with our expert tree services. Contact us today!"
+    },
+    "services": [
+      {
+        "slug": "tree-removal",
+        "name": "Tree Removal",
+        "shortDescription": "Safely and efficiently removing trees of any size and species.",
+        "description": "Tree removal is often a necessary but complex task. Whether a tree is dead, diseased, posing a safety hazard, or simply needs to be removed for construction purposes, Tree Service By Northwest has the expertise and equipment to handle the job safely and efficiently. We carefully assess each situation, considering factors like tree size, location, proximity to structures and power lines, and potential environmental impact. Our team uses industry-leading techniques, including rigging, crane-assisted removal, and precision felling, to minimize risks and ensure a clean and thorough removal.\n\nSeattle's unique climate and housing stock present specific challenges. The constant moisture promotes moss growth and wood rot, weakening trees and making them more susceptible to falling. We're experienced in dealing with these conditions, particularly common in older Craftsman homes in neighborhoods like Capitol Hill and Queen Anne. We also offer stump grinding services to fully remove the tree and prevent regrowth.\n\nAfter the tree is removed, we take care of the cleanup, hauling away debris and leaving your property neat and tidy. Our goal is to provide a stress-free experience and protect your property from potential damage.",
+        "process": [
+          "Step 1: Site Assessment - Evaluating the tree's health, location, and potential hazards.",
+          "Step 2: Planning & Permitting - Developing a removal plan and obtaining necessary permits.",
+          "Step 3: Safe Removal - Executing the removal using appropriate equipment and techniques.",
+          "Step 4: Cleanup & Disposal - Removing debris and disposing of it responsibly."
+        ],
+        "benefits": [
+          "Eliminate safety hazards",
+          "Prevent property damage",
+          "Improve aesthetics",
+          "Create space for new growth"
+        ],
+        "faq": [
+          {
+            "question": "How much does tree removal cost?",
+            "answer": "The cost depends on several factors, including the size and location of the tree, the complexity of the removal, and the amount of cleanup required. We offer free estimates to provide you with an accurate price."
+          },
+          {
+            "question": "Do I need a permit to remove a tree?",
+            "answer": "In many cases, a permit is required to remove a tree in Seattle. We can help you determine if a permit is needed and assist with the application process."
+          },
+          {
+            "question": "What do you do with the removed tree?",
+            "answer": "We strive to be environmentally responsible. We recycle as much of the tree as possible, turning it into mulch, firewood, or other useful products."
+          }
+        ]
+      },
+      {
+        "slug": "stump-grinding",
+        "name": "Stump Grinding",
+        "shortDescription": "Complete stump removal to eliminate hazards and improve your landscape.",
+        "description": "After a tree is removed, the stump can be an unsightly and hazardous obstacle. Stump grinding is the most effective way to completely eliminate the stump, preventing regrowth, eliminating tripping hazards, and allowing you to reclaim your yard. Tree Service By Northwest uses specialized stump grinding equipment to grind the stump down below ground level, leaving you with a clean and usable space.\n\nSeattle's damp climate makes stump removal particularly important. Stumps left in the ground can attract pests, promote fungal growth, and become a breeding ground for moss and mildew. This is especially problematic for homes in areas like Ballard and Fremont, where moisture is prevalent. Our stump grinding service prevents these issues and restores your property's beauty.\n\nWe handle stumps of all sizes and in all locations. Our team is skilled at navigating tight spaces and minimizing disruption to your existing landscaping. We also take care of the cleanup, removing the grindings and leaving your yard ready for planting or other uses.",
+        "process": [
+          "Step 1: Stump Assessment - Evaluating the size and location of the stump.",
+          "Step 2: Grinding - Using specialized equipment to grind the stump below ground level.",
+          "Step 3: Cleanup - Removing grindings and debris.",
+          "Step 4: Site Restoration - Filling the hole with topsoil and preparing it for planting."
+        ],
+        "benefits": [
+          "Eliminate tripping hazards",
+          "Prevent regrowth",
+          "Improve aesthetics",
+          "Prevent pest infestations"
+        ],
+        "faq": [
+          {
+            "question": "How long does stump grinding take?",
+            "answer": "The time required depends on the size of the stump and its location. Most stump grinding jobs can be completed in a few hours."
+          },
+          {
+            "question": "Will stump grinding damage my yard?",
+            "answer": "We take precautions to minimize damage to your yard. We use protective mats and carefully maneuver our equipment to avoid disturbing surrounding vegetation."
+          },
+          {
+            "question": "What happens to the grindings?",
+            "answer": "We can either remove the grindings or use them to fill the hole, depending on your preference. Grindings can also be used as mulch."
+          }
+        ]
+      },
+      {
+        "slug": "tree-pruning",
+        "name": "Tree Pruning",
+        "shortDescription": "Enhance the health and beauty of your trees with expert pruning services.",
+        "description": "Proper tree pruning is essential for maintaining the health, safety, and beauty of your trees. Tree Service By Northwest provides expert pruning services tailored to the specific needs of each tree species and its environment. We use industry-standard techniques to remove dead, damaged, or diseased branches, improve airflow, and promote healthy growth.\n\nIn Seattle, regular tree pruning is crucial for dealing with the effects of our wet climate. Pruning helps to reduce the risk of branch breakage during storms and prevents the spread of fungal diseases. This is especially important for older trees in neighborhoods like West Seattle, where mature trees are a defining feature of the landscape. We understand the unique challenges of pruning in the Pacific Northwest and are committed to preserving the health and beauty of our urban forest.\n\nOur team of certified arborists carefully assesses each tree before pruning, considering its species, age, and overall health. We use specialized equipment and techniques to ensure precise and efficient pruning, minimizing stress to the tree and maximizing its long-term health.",
+        "process": [
+          "Step 1: Tree Assessment - Evaluating the tree's health and identifying pruning needs.",
+          "Step 2: Pruning Plan - Developing a plan based on the tree's species and condition.",
+          "Step 3: Safe Pruning - Executing the pruning using proper techniques and equipment.",
+          "Step 4: Debris Removal - Removing pruned branches and debris."
+        ],
+        "benefits": [
+          "Improve tree health",
+          "Enhance aesthetics",
+          "Reduce risk of branch breakage",
+          "Promote healthy growth"
+        ],
+        "faq": [
+          {
+            "question": "How often should I prune my trees?",
+            "answer": "The frequency of pruning depends on the species of tree and its growing conditions. Most trees benefit from pruning every 3-5 years."
+          },
+          {
+            "question": "Can I prune my trees myself?",
+            "answer": "While some minor pruning can be done by homeowners, it's best to hire a professional for larger or more complex pruning jobs. Improper pruning can damage the tree and create safety hazards."
+          },
+          {
+            "question": "What is the best time of year to prune trees?",
+            "answer": "The best time to prune most trees is during the dormant season (late fall or winter). However, some species can be pruned at other times of the year."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-tree-service",
+        "name": "Emergency Tree Service",
+        "shortDescription": "24/7 emergency tree removal and storm damage cleanup.",
+        "description": "Storms and other unexpected events can cause significant damage to trees, creating hazardous situations for your property and family. Tree Service By Northwest offers 24/7 emergency tree service to quickly and safely remove fallen trees, clear debris, and mitigate further damage. We understand the urgency of these situations and are committed to providing prompt and reliable service.\n\nSeattle's frequent storms and heavy rainfall can lead to tree falls and branch breakage. Our team is experienced in handling these types of emergencies, particularly in areas like Discovery Park and along the waterfront, where exposure to wind and moisture is high. We prioritize safety and use specialized equipment to remove trees and debris efficiently, minimizing disruption to your life.\n\nWe work closely with insurance companies to help you navigate the claims process and ensure that you receive the coverage you deserve. Our goal is to provide peace of mind during a stressful time and restore your property to its pre-storm condition.",
+        "process": [
+          "Step 1: Emergency Response - Arriving on site quickly to assess the situation.",
+          "Step 2: Hazard Mitigation - Removing immediate hazards to protect people and property.",
+          "Step 3: Tree Removal - Safely removing fallen trees and debris.",
+          "Step 4: Site Cleanup - Cleaning up debris and restoring the site to a safe condition."
+        ],
+        "benefits": [
+          "24/7 availability",
+          "Rapid response",
+          "Hazard mitigation",
+          "Insurance assistance"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes a tree emergency?",
+            "answer": "A tree emergency is any situation where a tree poses an immediate threat to people or property, such as a fallen tree blocking a driveway or a tree leaning precariously over a house."
+          },
+          {
+            "question": "How quickly can you respond to an emergency?",
+            "answer": "We strive to respond to emergency calls as quickly as possible, typically within a few hours."
+          },
+          {
+            "question": "Do you work with insurance companies?",
+            "answer": "Yes, we work with most insurance companies and can help you file a claim."
+          }
+        ]
+      },
+      {
+        "slug": "arborist-consultation",
+        "name": "Arborist Consultation",
+        "shortDescription": "Expert advice on tree health, care, and risk assessment.",
+        "description": "Before undertaking any major tree work, it's essential to consult with a qualified arborist. Tree Service By Northwest offers comprehensive arborist consultation services to help you make informed decisions about the health and care of your trees. Our certified arborists can assess tree health, identify potential hazards, and provide recommendations for pruning, fertilization, and disease management.\n\nIn Seattle, where trees are an integral part of our urban landscape, proper tree care is crucial. Our arborists are familiar with the specific challenges faced by trees in our region, such as moss growth, wood rot, and pest infestations. We can provide tailored advice to help you protect your trees and ensure their long-term health.\n\nOur consultation services are valuable for homeowners, property managers, and developers alike. Whether you're concerned about the health of a mature tree in your yard or planning a new construction project that may impact nearby trees, we can provide the expertise you need.",
+        "process": [
+          "Step 1: Site Visit - Our arborist visits your property to assess your trees.",
+          "Step 2: Tree Assessment - Evaluating the health, structure, and potential hazards.",
+          "Step 3: Report & Recommendations - Providing a detailed report with recommendations for tree care.",
+          "Step 4: Follow-Up - Answering your questions and providing ongoing support."
+        ],
+        "benefits": [
+          "Expert advice",
+          "Informed decisions",
+          "Improved tree health",
+          "Risk assessment"
+        ],
+        "faq": [
+          {
+            "question": "What is a certified arborist?",
+            "answer": "A certified arborist is a professional who has been trained and certified in the science and practice of arboriculture, which is the cultivation and management of trees."
+          },
+          {
+            "question": "When should I consult with an arborist?",
+            "answer": "You should consult with an arborist if you have concerns about the health of your trees, are planning any major tree work, or are developing a property that may impact nearby trees."
+          },
+          {
+            "question": "How much does an arborist consultation cost?",
+            "answer": "The cost of an arborist consultation depends on the scope of the assessment. We offer competitive pricing and can provide you with a quote before scheduling a consultation."
+          }
+        ]
+      },
+      {
+        "slug": "storm-damage-cleanup",
+        "name": "Storm Damage Cleanup",
+        "shortDescription": "Comprehensive storm damage cleanup services to restore your property.",
+        "description": "Seattle's intense storms can leave behind a trail of destruction, including fallen trees, broken branches, and scattered debris. Tree Service By Northwest offers comprehensive storm damage cleanup services to help you restore your property to its pre-storm condition. Our experienced team is equipped to handle even the most challenging cleanup projects, ensuring that your property is safe and free of hazards.\n\nWe understand the stress and disruption that storm damage can cause. That's why we provide prompt and reliable service, working quickly to remove debris, clear pathways, and mitigate further damage. Our team is skilled at navigating complex situations and minimizing disruption to your life.\n\nWe work closely with insurance companies to help you navigate the claims process and ensure that you receive the coverage you deserve. Our goal is to provide peace of mind during a stressful time and restore your property to its pre-storm condition.",
+        "process": [
+          "Step 1: Site Assessment - Evaluating the extent of the storm damage.",
+          "Step 2: Debris Removal - Removing fallen trees, branches, and other debris.",
+          "Step 3: Hazard Mitigation - Addressing any remaining hazards to ensure safety.",
+          "Step 4: Site Restoration - Restoring the site to its pre-storm condition."
+        ],
+        "benefits": [
+          "Comprehensive cleanup",
+          "Prompt service",
+          "Hazard mitigation",
+          "Insurance assistance"
+        ],
+        "faq": [
+          {
+            "question": "What types of storm damage do you clean up?",
+            "answer": "We clean up all types of storm damage, including fallen trees, broken branches, scattered debris, and flooding."
+          },
+          {
+            "question": "How long does storm damage cleanup take?",
+            "answer": "The time required depends on the extent of the damage. We strive to complete cleanup projects as quickly as possible, while ensuring safety and thoroughness."
+          },
+          {
+            "question": "Do you work with insurance companies?",
+            "answer": "Yes, we work with most insurance companies and can help you file a claim."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Bellevue",
+        "slug": "bellevue-wa",
+        "state": "WA",
+        "content": "Tree Service By Northwest is proud to offer professional tree removal and tree care services to the residents and businesses of Bellevue, Washington. We understand the unique challenges presented by Bellevue's landscape, from the mature trees surrounding upscale homes built in the 1980s and 2000s, to the need for careful preservation of the city's green spaces. Our team is equipped to handle any tree-related issue, ensuring the safety and beauty of your property.\n\nBellevue's mild, wet winters mean that trees are often subjected to significant stress from persistent rain and occasional strong winds. This can lead to weakened branches, increased risk of falling limbs, and potential damage to property. We offer comprehensive tree risk assessments and proactive tree care solutions to mitigate these risks, helping you maintain healthy and safe trees year-round. Whether you need emergency tree removal, routine pruning, or expert advice on tree health, Tree Service By Northwest is here to serve you.",
+        "localContext": "Bellevue boasts a mix of residential neighborhoods with established trees and a thriving downtown core, requiring a nuanced approach to tree care that balances preservation and safety.",
+        "nearbyAreas": [
+          "Redmond",
+          "Kirkland",
+          "Seattle"
+        ]
+      },
+      {
+        "city": "Redmond",
+        "slug": "redmond-wa",
+        "state": "WA",
+        "content": "Tree Service By Northwest provides expert tree removal and maintenance services in Redmond, Washington. Known for being the home of Microsoft's headquarters, Redmond features a mix of residential areas and commercial developments, all benefiting from the presence of healthy, well-maintained trees. We are committed to providing safe, efficient, and environmentally responsible tree care to the Redmond community.\n\nThe climate in Redmond, with its mild, wet winters, can pose challenges to tree health. The constant moisture can lead to fungal diseases and weakened root systems. Tree Service By Northwest offers a full range of services, including tree pruning, disease diagnosis, and preventative care, to help your trees thrive in Redmond's unique environment. We also provide emergency tree removal services to address storm damage and other urgent situations.",
+        "localContext": "Redmond's blend of tech industry influence and residential neighborhoods creates a demand for reliable and professional tree services that prioritize both aesthetics and safety.",
+        "nearbyAreas": [
+          "Bellevue",
+          "Kirkland",
+          "Woodinville"
+        ]
+      },
+      {
+        "city": "Kirkland",
+        "slug": "kirkland-wa",
+        "state": "WA",
+        "content": "Tree Service By Northwest is dedicated to providing top-quality tree services to the residents and businesses of Kirkland, Washington. With its beautiful waterfront homes along Lake Washington, Kirkland presents unique challenges and opportunities for tree care. We understand the importance of preserving the natural beauty of Kirkland while ensuring the safety and health of its trees.\n\nThe mild, wet winters in Kirkland can be particularly challenging for trees located near the waterfront. The combination of saturated soil and strong winds can increase the risk of tree failure. Tree Service By Northwest offers comprehensive tree risk assessments and customized tree care plans to address these specific concerns. From pruning and trimming to complete tree removal, we have the expertise and equipment to handle any tree-related project in Kirkland.",
+        "localContext": "Kirkland's proximity to Lake Washington and its abundance of waterfront properties necessitate careful tree management to protect both the environment and property values.",
+        "nearbyAreas": [
+          "Redmond",
+          "Bellevue",
+          "Kenmore"
+        ]
+      },
+      {
+        "city": "Tacoma",
+        "slug": "tacoma-wa",
+        "state": "WA",
+        "content": "Tree Service By Northwest extends its professional tree care services to Tacoma, Washington. With its diverse neighborhoods, including the historic Stadium District with its charming 1900s-20s Craftsman homes, Tacoma offers a unique landscape for tree care. We are committed to providing safe, efficient, and environmentally responsible tree services to the Tacoma community.\n\nThe climate in Tacoma, characterized by mild, wet winters, can create challenges for tree health. The constant moisture can lead to fungal diseases and weakened root systems. Tree Service By Northwest offers a full range of services, including tree pruning, disease diagnosis, and preventative care, to help your trees thrive in Tacoma's unique environment. We also specialize in the safe removal of large and hazardous trees, ensuring the safety of your property and surrounding areas.",
+        "localContext": "Tacoma's mix of historic architecture and established trees requires a sensitive approach to tree care that respects the city's unique character.",
+        "nearbyAreas": [
+          "Seattle",
+          "Federal Way",
+          "Puyallup"
+        ]
+      },
+      {
+        "city": "Bothell",
+        "slug": "bothell-wa",
+        "state": "WA",
+        "content": "Tree Service By Northwest proudly serves the city of Bothell, Washington, offering comprehensive tree care solutions for residential and commercial properties. Bothell, known for its 1980s-90s suburban developments, features a landscape where mature trees often require specialized attention. We are dedicated to providing safe, efficient, and environmentally conscious tree services to the Bothell community.\n\nBothell's mild, wet winters create conditions that can impact tree health. The persistent rain can lead to soil saturation and increase the risk of root rot and fungal diseases. Tree Service By Northwest offers expert pruning, disease management, and tree removal services tailored to the specific needs of Bothell's trees. We prioritize the health and safety of your trees, ensuring they thrive in the Bothell climate.",
+        "localContext": "Bothell's suburban landscape and established neighborhoods create a demand for tree services that balance aesthetics, safety, and environmental responsibility.",
+        "nearbyAreas": [
+          "Woodinville",
+          "Kenmore",
+          "Mill Creek"
+        ]
+      },
+      {
+        "city": "Seattle",
+        "slug": "seattle-wa",
+        "state": "WA",
+        "content": "Tree Service By Northwest is proud to offer professional tree removal and tree care services to the residents and businesses of Seattle, Washington. We understand the unique challenges presented by Seattle's landscape, from the dense urban environment to the mature trees in historic neighborhoods. Our team is equipped to handle any tree-related issue, ensuring the safety and beauty of your property. \n\nSeattle's mild, wet winters mean that trees are often subjected to significant stress from persistent rain and occasional strong winds. This can lead to weakened branches, increased risk of falling limbs, and potential damage to property. We offer comprehensive tree risk assessments and proactive tree care solutions to mitigate these risks, helping you maintain healthy and safe trees year-round. Whether you need emergency tree removal, routine pruning, or expert advice on tree health, Tree Service By Northwest is here to serve you.",
+        "localContext": "Seattle's diverse neighborhoods and unique microclimates require a tailored approach to tree care, balancing urban development with the preservation of green spaces.",
+        "nearbyAreas": [
+          "Bellevue",
+          "Shoreline",
+          "Renton"
+        ]
+      },
+      {
+        "city": "Shoreline",
+        "slug": "shoreline-wa",
+        "state": "WA",
+        "content": "Tree Service By Northwest is committed to providing exceptional tree care services to the residents and businesses of Shoreline, Washington. With its beautiful parks and residential areas, Shoreline benefits greatly from healthy and well-maintained trees. We are dedicated to ensuring the safety, health, and beauty of the trees in your community.\n\nShoreline's mild, wet climate can create challenges for tree health, including increased risk of fungal diseases and root rot. Tree Service By Northwest offers a comprehensive range of services to address these issues, including expert pruning, disease management, and tree removal when necessary. We strive to provide environmentally responsible solutions that protect the natural beauty of Shoreline.",
+        "localContext": "Shoreline's emphasis on green spaces and community parks creates a high demand for professional tree care services that prioritize both aesthetics and environmental sustainability.",
+        "nearbyAreas": [
+          "Seattle",
+          "Lake Forest Park",
+          "Edmonds"
+        ]
+      },
+      {
+        "city": "Renton",
+        "slug": "renton-wa",
+        "state": "WA",
+        "content": "Tree Service By Northwest is proud to serve the city of Renton, Washington, offering reliable and professional tree care services to residential and commercial clients. Renton, with its mix of residential neighborhoods and industrial areas, presents a diverse landscape for tree management. We are committed to providing safe, efficient, and environmentally responsible solutions for all your tree care needs.\n\nRenton's climate, characterized by mild, wet winters, can impact tree health. The constant moisture can lead to soil saturation and increase the risk of root diseases. Tree Service By Northwest offers expert pruning, disease management, and tree removal services tailored to the specific needs of Renton's trees. We prioritize the health and safety of your trees, ensuring they thrive in the Renton environment.",
+        "localContext": "Renton's blend of residential, commercial, and industrial areas creates a need for tree services that can address a wide range of tree care challenges.",
+        "nearbyAreas": [
+          "Seattle",
+          "Tukwila",
+          "Kent"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Tree Removal",
+        "text": "Tree Service By Northwest did an amazing job removing a large, dying maple from my backyard. The crew was professional, efficient, and very careful not to damage my fence or landscaping. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David B.",
+        "rating": 4,
+        "service": "Stump Grinding",
+        "text": "I had two old stumps that were an eyesore in my front yard. Tree Service By Northwest came out and ground them down quickly and cleanly. The price was reasonable, and the service was excellent.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Jessica K.",
+        "rating": 5,
+        "service": "Tree Pruning",
+        "text": "Our apple tree was overgrown and not producing much fruit. Tree Service By Northwest pruned it expertly, and now it looks healthier than ever. Looking forward to a better harvest next year!",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Tom H.",
+        "rating": 5,
+        "service": "Emergency Tree Service",
+        "text": "A huge branch fell on my roof during a storm. Tree Service By Northwest responded immediately and removed the branch safely and efficiently. They saved my roof from further damage!",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Susan L.",
+        "rating": 4,
+        "service": "Arborist Consultation",
+        "text": "I was concerned about the health of my large oak tree. The arborist from Tree Service By Northwest provided a thorough assessment and gave me valuable advice on how to care for it. Very helpful!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "Robert M.",
+        "rating": 5,
+        "service": "Storm Damage Cleanup",
+        "text": "After a recent windstorm, my yard was a mess. Tree Service By Northwest came out and cleared all the debris quickly and efficiently. They were a lifesaver!",
+        "date": "2024-12-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Tree Removal Seattle | Tree Service By Northwest",
+        "description": "Expert tree removal, pruning, and emergency services in Seattle, WA. Safe and affordable. Free estimates! Call +14256997581"
+      },
+      "about": {
+        "title": "About Us | Tree Service By Northwest Seattle",
+        "description": "Learn about Tree Service By Northwest's commitment to quality tree care in Seattle. Experienced arborists. Serving the Puget Sound area."
+      },
+      "services": {
+        "title": "Tree Services | Tree Service By Northwest Seattle",
+        "description": "Comprehensive tree services in Seattle: Removal, pruning, stump grinding, emergency services. Serving Bellevue, Redmond, Kirkland, Tacoma, Bothell."
+      },
+      "contact": {
+        "title": "Contact Us | Tree Service By Northwest Seattle",
+        "description": "Contact Tree Service By Northwest for a free estimate on tree removal, pruning, and other services in Seattle. Call +14256997581 today!"
+      },
+      "reviews": {
+        "title": "Customer Reviews | Tree Service By Northwest Seattle",
+        "description": "Read reviews from satisfied customers of Tree Service By Northwest in Seattle. Quality tree removal, pruning, and emergency services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Tree Service By Northwest Seattle",
+        "description": "Tree Service By Northwest serves Seattle, Bellevue, Redmond, Kirkland, Tacoma, Bothell, and surrounding areas. Expert tree care services."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "tree-removal": "/images/service-tree-removal.webp",
+      "stump-grinding": "/images/service-stump-grinding.webp",
+      "tree-pruning": "/images/service-tree-pruning.webp",
+      "emergency-tree-service": "/images/service-emergency-tree-service.webp",
+      "arborist-consultation": "/images/service-arborist-consultation.webp",
+      "storm-damage-cleanup": "/images/service-storm-damage-cleanup.webp"
+    },
+    "servicesResponsive": {
+      "tree-removal": {
+        "src": "/images/service-tree-removal.webp",
+        "srcset": "/images/service-tree-removal-400w.webp 400w, /images/service-tree-removal-800w.webp 800w, /images/service-tree-removal-1200w.webp 1200w, /images/service-tree-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "stump-grinding": {
+        "src": "/images/service-stump-grinding.webp",
+        "srcset": "/images/service-stump-grinding-400w.webp 400w, /images/service-stump-grinding-800w.webp 800w, /images/service-stump-grinding-1200w.webp 1200w, /images/service-stump-grinding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tree-pruning": {
+        "src": "/images/service-tree-pruning.webp",
+        "srcset": "/images/service-tree-pruning-400w.webp 400w, /images/service-tree-pruning-800w.webp 800w, /images/service-tree-pruning-1200w.webp 1200w, /images/service-tree-pruning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-tree-service": {
+        "src": "/images/service-emergency-tree-service.webp",
+        "srcset": "/images/service-emergency-tree-service-400w.webp 400w, /images/service-emergency-tree-service-800w.webp 800w, /images/service-emergency-tree-service-1200w.webp 1200w, /images/service-emergency-tree-service.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "arborist-consultation": {
+        "src": "/images/service-arborist-consultation.webp",
+        "srcset": "/images/service-arborist-consultation-400w.webp 400w, /images/service-arborist-consultation-800w.webp 800w, /images/service-arborist-consultation-1200w.webp 1200w, /images/service-arborist-consultation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-damage-cleanup": {
+        "src": "/images/service-storm-damage-cleanup.webp",
+        "srcset": "/images/service-storm-damage-cleanup-400w.webp 400w, /images/service-storm-damage-cleanup-800w.webp 800w, /images/service-storm-damage-cleanup-1200w.webp 1200w, /images/service-storm-damage-cleanup.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
